@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoToWeb</string>
+    <string name="text">Enter URL</string>
+</resources>
